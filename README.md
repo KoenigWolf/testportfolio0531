@@ -1,46 +1,44 @@
-以下の `README.md` を作成してください。  
+# **StartBootstrap Personal Portfolio**  
+
+このプロジェクトは、**StartBootstrap** テンプレートをベースにした **個人用ポートフォリオサイト** です。  
+プロジェクト紹介、履歴書、問い合わせ情報などのセクションを含んでいます。  
 
 ---
 
-# **StartBootstrap Personal Portfolio**  
-
-This is a **personal portfolio website** based on the **StartBootstrap** template.  
-It includes sections for projects, resume, and contact information.  
-
-## **📁 Project Structure**  
+## **📁 プロジェクト構成**  
 
 ```
 .
-└── startbootstrap-personal-gh-pages
-    ├── assets              # Static assets (favicon, profile image)
-    │   ├── favicon.ico
-    │   └── profile.png
-    ├── css                 # Stylesheets
-    │   └── styles.css
-    ├── js                  # JavaScript files
-    │   └── scripts.js
-    ├── index.html          # Homepage
-    ├── projects.html       # Projects page
-    ├── resume.html         # Resume page
-    ├── contact.html        # Contact page
+├── assets             # 静的ファイル (ファビコン、プロフィール画像)
+│   ├── favicon.ico
+│   └── profile.png
+├── css                # スタイルシート
+│   └── styles.css
+├── js                 # JavaScript ファイル
+│   └── scripts.js
+├── index.html         # ホームページ
+├── projects.html      # プロジェクトページ
+├── resume.html        # 履歴書ページ
+├── contact.html       # お問い合わせページ
 ```
 
-## **🚀 How to Use**  
+---
 
-1. **Open the website locally**  
-   - Open `index.html` in your browser to view the homepage.  
+## **🚀 使い方**  
 
-2. **Customize your portfolio**  
-   - Replace `profile.png` in `assets/` with your own profile image.  
-   - Modify `index.html`, `projects.html`, `resume.html`, and `contact.html` with your own information.  
-   - Update `styles.css` in `css/` for custom styling.  
+### **1. ローカルで開く**  
+- `index.html` をブラウザで開くと、ホームページが表示されます。  
 
-3. **Deploy the website**  
-   - Host it on **GitHub Pages**, **Vercel**, or **Netlify** for free.  
-   - Simply upload the files to your hosting provider.  
+### **2. ポートフォリオをカスタマイズ**  
+- `assets/` 内の `profile.png` を、自分のプロフィール画像に置き換える。  
+- `index.html`, `projects.html`, `resume.html`, `contact.html` を編集し、自分の情報を入力する。  
+- `css/styles.css` を編集し、デザインをカスタマイズする。  
 
-## **📌 Dependencies**  
-This project is **pure HTML, CSS, and JavaScript**, meaning no additional dependencies are required.  
+### **3. ウェブサイトを公開**  
+- **GitHub Pages**, **Vercel**, **Netlify** などの無料ホスティングサービスで公開可能。  
+- ファイルをアップロードするだけで簡単にデプロイできます。  
 
-## **📞 Contact**  
-For questions or customization, feel free to reach out! 🚀  
+---
+
+## **📌 必要な環境**  
+このプロジェクトは **HTML、CSS、JavaScript のみ** で構成されており、追加の依存関係は不要です。  
